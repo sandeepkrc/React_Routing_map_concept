@@ -1,2 +1,1 @@
-# wcu
-wcu
+MAPPING IN REACT JS
